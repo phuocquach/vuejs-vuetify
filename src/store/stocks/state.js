@@ -1,4 +1,4 @@
 const state = () => {
-    stocks:[]
+    //stocks:[]
 };
 export default state;
