@@ -1,7 +1,7 @@
 # play vuetify UI
 
 This project is only for learning VueJS, Vuetify, JS, Injective protocol and practice some action on development.
-Not any copied of this UI is used on production or commercial
+Not any copied of IP UI used in production or commercial.
 ## Project setup
 ```
 yarn install
