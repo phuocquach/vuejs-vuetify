@@ -46,10 +46,6 @@
     },
     "overrides": [
       {
-          "files": ["*.md"],
-          "processor": "a-plugin/markdown"
-      },
-      {
           "files": ["*"],
           "rules": {
               "strict": "off"
