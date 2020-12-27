@@ -42,17 +42,17 @@
       "parser": "babel-eslint"
     },
     "rules": {
-
+      "no-unused-expressions": "off"
     },
     "overrides": [
       {
           "files": ["*"],
           "rules": {
-              "strict": "off"
+              "strict": "off",
+              "no-unused-expressions": "off"
           }
       }
-  ]
-  },
+  ]},
   "browserslist": [
     "> 1%",
     "last 2 versions",
